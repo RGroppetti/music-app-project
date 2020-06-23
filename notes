@@ -1,0 +1,15 @@
+Download music data for a single artist (of your choosing) and create the following endpoints for your API
+
+List all songs
+Find song by id
+Find songs by name
+Find songs by album id (collection id)
+Find songs by album name (collection name)
+Update song information by id
+Delete a song by id
+Add a new song
+------------------------------------------------------------------------------------
+Add data for more than one artist then add the following endpoint
+
+Find song by artist id
+Find song by artist name
